@@ -1,7 +1,7 @@
 %% This file contains an implementation of a simple key-value store,
 %% and a state-machine specification of it.
 
--module(kv).
+@@@module(kv).
 
 -include_lib("eqc/include/eqc.hrl").
 -include_lib("eqc/include/eqc_statem.hrl").
